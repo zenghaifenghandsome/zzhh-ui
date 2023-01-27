@@ -13,4 +13,8 @@ export type GridLayoutProps = Partial<{
      */
     gridTemplate: Property.GridTemplate;
 
+    /**
+     * 
+     */
+
 }>;
